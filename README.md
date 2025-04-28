@@ -429,18 +429,22 @@ mv backup.tar backupdir
  
 tar -tvf backup.tar
 ## OUTPUT
+![Screenshot 2025-04-27 191153](https://github.com/user-attachments/assets/37bf87b1-4aad-407f-8b89-e2dad7f25cd5)
 
 
 tar -xvf backup.tar
 ## OUTPUT
+![Screenshot 2025-04-27 191206](https://github.com/user-attachments/assets/dbc07317-71f8-4afb-880f-eb4c016041b0)
 
 gzip backup.tar
 
 ls .gz
 ## OUTPUT
- 
+ ![Screenshot 2025-04-27 191213](https://github.com/user-attachments/assets/5ba09313-3ff5-46cb-8913-2f635bbcbcf3)
+
 gunzip backup.tar.gz
 ## OUTPUT
+![Screenshot 2025-04-27 191223](https://github.com/user-attachments/assets/8e0ce6fd-6272-49df-9951-8c76d0f5ab91)
 
  
 # Shell Script
