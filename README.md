@@ -422,6 +422,7 @@ cat urllist.txt | tr -d ' ' | tr -s '.'
 tar -cvf backup.tar *
 ## OUTPUT
 
+![Screenshot from 2025-04-23 21-58-00](https://github.com/user-attachments/assets/12a015ce-08fb-4954-99d6-bfbbfa36e6b4)
 
 mkdir backupdir
  
